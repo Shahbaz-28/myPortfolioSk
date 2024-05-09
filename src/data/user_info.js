@@ -1,26 +1,27 @@
 const info = {
     main: {
-        name: "Daniel Shan Balico",
-        description: "I am a software engineer with expertise in full-stack web development. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards.",
-        role: "Software Engineer",
-        photo: "../photo.jpg",
-        email: "danielshan.balico@gmail.com",
+        name: "Shahbaz Khan",
+        description: "I am a software developer with expertise in full-stack web development. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards.",
+        role: "Software Developer",
+        photo: "",
+        email: "shahbaz.khan4276@gmail.com",
         tracking_id: "G-BNTTBGHXSC"
     },
 
     socials: {
         twitter: "https://twitter.com/dsbalico",
 		github: "https://github.com/dsbalico",
-		linkedin: "https://linkedin.com/in/daniel-shan-balico",
+		linkedin: "https://www.linkedin.com/in/shahbaz-khan28/",
 		instagram: "https://instagram.com/dsbalico",
 		facebook: "https://facebook.com/dsbalico",
-        telegram: "https://telegram.me/dsbalico"
+        telegram: "https://telegram.me/dsbalico",
+        company: "https://www.cooasis.in/"
     },
 
     skills: {
         languages: {
-            description: "I possess proficient expertise in a diverse range of programming languages, including C, C++, C#, Python, TypeScript, and JavaScript.",
-            image: "https://skillicons.dev/icons?i=c,cpp,cs,py,typescript,javascript&perline=6&theme="
+            description: "I possess proficient expertise in a diverse range of programming languages, including JavaScript, TypeScript, and Python.",
+            image: "https://skillicons.dev/icons?i=,py,typescript,javascript&perline=6&theme="
         },
         frameworks: {
             description: "Experienced in a versatile tech stack, including React, Express.js, Node.js, Flask, Tailwind CSS, and Tensorflow.",
@@ -66,19 +67,14 @@ const info = {
 		},
     ],
 
-    education: [
+    Jobexperience: [
         {
-            school: "Technological University of the Philippines",
-            degree: "BS in Computer Science",
-            year: "2020 - Present",
-            image: "tup.png"
+            company: "Cooasis Creative Studios Pvt. Ltd",
+            position: "Frontend Developer",
+            year: "2024 - Present",
+            image: "../../public/coasis.jpg"
         },
-        {
-            school: "STI College",
-            degree: "ICT in Mobile App and Web Development",
-            year: "2018 - 2020",
-            image: "sti.png"
-        },
+        
     ],
 
     contact: {
@@ -86,7 +82,7 @@ const info = {
         description: "Thank you for your interest in getting in touch with me. I welcome your feedback, questions, and suggestions. If you have a specific question or comment, please feel free to email me directly at danielshan.balico@gmail.com. I make an effort to respond to all messages within 24 hours, although it may take me longer during busy periods. Finally, if you prefer to connect on social media, you can connect with me using the social media links below.",
     },
 
-    footer: "© 2024 Daniel Shan Balico. All Rights Reserved"
+    footer: "© Shahbaz Khan. All Rights Reserved"
 }
 
 export default info
