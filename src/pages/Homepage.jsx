@@ -233,13 +233,6 @@ function Homepage() {
             <span>{user_info.main.email}</span>
           </a>
 
-          {/* <a
-            href={user_info.socials.telegram}
-            className="flex mt-6 text-gray-500 dark:text-gray-300 hover:dark:text-gray-300 gap-4 hover:text-gray-700 transition-all duration-30"
-          >
-            <FaTelegramPlane className="self-center text-lg" />
-            <span>Message on Telegram</span>
-          </a> */}
         </div>
 
         <hr className="mt-12 border border-gray-300 dark:border-gray-700" />
