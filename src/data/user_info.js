@@ -9,12 +9,10 @@ const info = {
     },
 
     socials: {
-        twitter: "https://twitter.com/dsbalico",
-		github: "https://github.com/dsbalico",
+        twitter: "",
+		github: "",
 		linkedin: "https://www.linkedin.com/in/shahbaz-khan28/",
-		instagram: "https://instagram.com/dsbalico",
-		facebook: "https://facebook.com/dsbalico",
-        telegram: "https://telegram.me/dsbalico",
+		instagram: "",
         company: "https://www.cooasis.in/"
     },
 
@@ -38,32 +36,32 @@ const info = {
 			title: "Draw & Classify",
 			description: "Draw & Classify is a web application designed to test my machine learning model, which classifies drawn letters, digits, or shapes.",
 			technologies: "https://skillicons.dev/icons?i=react,tailwindcss,tensorflow,0,0&perline=5&theme=",
-			github: "https://github.com/dsbalico/letter-digit-shape-classification",
-            link: "https://letterdigitshape-classification.netlify.app/"
+			github: "",
+            link: ""
 		},
 
 		{
 			title: "Chatroom",
 			description: "Chatroom is a simple online chatting web application where you can create chat rooms and have a fun conversation with a group of people.",
 			technologies: "https://skillicons.dev/icons?i=react,tailwindcss,firebase,0,0&perline=5&theme=",
-			github: "https://github.com/dsbalico/chatroom",
-            link: "https://thechatroom.netlify.app/"
+			github: "",
+            link: ""
 		},
 
 		{
 			title: "Sudoku Solver",
 			description: "Sudoku Solver is a web application that can generate or solve sudoku problems using simulated annealing, an optimization algorithm.",
 			technologies: "https://skillicons.dev/icons?i=react,tailwindcss,ts,0,0&perline=5&theme=",
-			github: "https://github.com/dsbalico/sudoku-solver-using-simulated-annealing",
-            link: "https://sudoku-solver-sa.netlify.app/"
+			github: "",
+            link: ""
 		},
 
 		{
 			title: "Probability Pick",
 			description: "Probability Pick is a PCSO Lotto Number Generator that calculates the likelihood of selecting winning numbers based on historical draw data.",
 			technologies: "https://skillicons.dev/icons?i=react,tailwindcss,flask,0,0&perline=5&theme=",
-			github: "https://github.com/dsbalico/pcso-lotto-number-generator",
-            link: "https://probability-pick.netlify.app/"
+			github: "",
+            link: ""
 		},
     ],
 

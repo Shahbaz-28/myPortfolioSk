@@ -50,10 +50,10 @@ function Homepage() {
 
                 <div className="flex gap-2 mt-6">
                   <a
-                    href="#projects"
+                    href="#contact"
                     className="px-6 py-3 border border-gray-900 dark:border-gray-100 hover:bg-blue-600 transition-all hover:text-gray-100 duration-300"
                   >
-                    Projects
+                    Contact
                   </a>
                   <a
                     download="Shahbaz-Resume.pdf"
@@ -62,14 +62,6 @@ function Homepage() {
                   >
                     Download CV
                   </a>
-
-                  {/* <a
-                    href="#contact"
-                    className="px-6 py-3 hover:text-blue-600 transition-all duration-300 flex gap-3 hover:gap-4"
-                  >
-                    <span className="self-center">Contact</span>
-                    <IoIosArrowForward className="self-center" />
-                  </a> */}
                 </div>
               </div>
 
@@ -232,7 +224,6 @@ function Homepage() {
             <MdEmail className="self-center text-lg" />
             <span>{user_info.main.email}</span>
           </a>
-
         </div>
 
         <hr className="mt-12 border border-gray-300 dark:border-gray-700" />
